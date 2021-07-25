@@ -16,5 +16,5 @@ Movie Discovery App With React and ES6
 - [x] Top Rated (TV, Movie)
 - [x] Popular (TV)
 - [x] Airing Today (TV)
-- [] Movie Detail
-- [] TV Detail
+- [x] Detail (TV, Movie)
+- [x] Search (TV, Movie)
