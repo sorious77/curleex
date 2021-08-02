@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/curleex/static/js/main.fd9492d8.chunk.js",
+    "main.js.map": "/curleex/static/js/main.fd9492d8.chunk.js.map",
+    "runtime-main.js": "/curleex/static/js/runtime-main.8b8000cc.js",
+    "runtime-main.js.map": "/curleex/static/js/runtime-main.8b8000cc.js.map",
+    "static/js/2.dace606d.chunk.js": "/curleex/static/js/2.dace606d.chunk.js",
+    "static/js/2.dace606d.chunk.js.map": "/curleex/static/js/2.dace606d.chunk.js.map",
+    "index.html": "/curleex/index.html",
+    "static/js/2.dace606d.chunk.js.LICENSE.txt": "/curleex/static/js/2.dace606d.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.31ee8645.jpg": "/curleex/static/media/noPosterSmall.31ee8645.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b8000cc.js",
+    "static/js/2.dace606d.chunk.js",
+    "static/js/main.fd9492d8.chunk.js"
+  ]
+}
