@@ -4,10 +4,10 @@ Movie Discovery App With React and ES6
 
 ## Screens
 
-- [] Home
-- [] TV
-- [] Search
-- [] Detail
+- [x] Home
+- [x] TV
+- [x] Search
+- [x] Detail
 
 ## API Verbs
 
@@ -18,3 +18,8 @@ Movie Discovery App With React and ES6
 - [x] Airing Today (TV)
 - [x] Detail (TV, Movie)
 - [x] Search (TV, Movie)
+
+## Deploy
+
+- [x] [GitHub Pages](https://sorious77.github.io/curleex)
+- [x] [Netlify](https://upbeat-thompson-9f35e0.netlify.app/)
